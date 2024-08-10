@@ -88,10 +88,14 @@ Open the cleopatra.html file in your web browser.
 # Future Plans
 
 Implement e-commerce functionality for online purchases
+
 Add a blog section with articles about perfumery and ancient Egyptian beauty practices
+
 Expand the product line to include other historical fragrances
+
 Develop a virtual fragrance sampling experience
 
 # Credits
 Images: Images used in this project are sourced from Unsplash, iStock, and other reputable online image libraries.
+
 Fonts: The website uses fonts such as Arial, Raleway, and Gill Sans to maintain a clean and professional look.
