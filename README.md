@@ -71,6 +71,10 @@ Use of gold (goldenrod) color for headings to evoke luxury and royalty
 Background image featuring Egyptian-style patterns or textures
 Elegant font choices to convey sophistication
 
+# Website Preview
+![Screenshot 2024-08-10 200002](https://github.com/user-attachments/assets/602f2e10-9bbf-44a2-94d0-17670d355c43)
+
+
 # Installation
 
 Clone the repository:
