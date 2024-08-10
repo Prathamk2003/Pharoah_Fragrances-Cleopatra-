@@ -1,0 +1,181 @@
+/* Reset default styles */
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+/* Global styles */
+body {
+	font-family: Arial, Raleway;
+	font-size: 16px;
+	line-height: 1.5;
+	color: #333;
+}
+
+a {
+	color: #333;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+/* Header styles */
+header {
+	background-color: black;
+	padding: 20px;
+    text-align: center;
+    font-family: Castoro;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+	font-size: 50px;
+	margin: 0;
+	color:goldenrod;
+	font-family:'Gill Sans';
+}
+
+nav {
+	margin-top: 20px;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-between;
+}
+
+nav li {
+	margin-right: 20px;
+	font-size: 25px;
+}
+
+nav li:last-child {
+	margin-right: 0;
+}
+
+nav a {
+	font-weight: bold;
+    color: white;
+}
+
+/* Main styles */
+
+
+main {
+	max-width: 1200px;
+	margin: 40px auto;
+	padding: 0 20px;
+}
+
+.home img
+{
+	display: flex;
+	align-items: center;
+	height:100%;
+	width: 100%;
+}
+
+.products {
+	margin-bottom: 40px;
+}
+
+.products h2 {
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+.product {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 40px;
+}
+
+.product img {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product h3 {
+	font-size: 20px;
+	margin: 20px 0 10px;
+}
+
+.product p {
+	text-align: center;
+}
+
+.about-us h2 {
+	font-size: 24px;
+	margin-bottom: 20px;
+	justify-content: center;
+	align-items: center;
+}
+
+.about-us p {
+	margin-bottom: 20px;
+}
+
+.founders {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.founder {
+	flex-basis: calc(33.33% - 20px);
+	margin-bottom: 40px;
+}
+
+.founder img {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 50%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.founder h3 {
+	font-size: 20px;
+	margin: 20px 0 10px;
+}
+
+.founder p {
+	text-align: auto;
+}
+
+/* Footer styles */
+footer {
+	background-color: black;
+	padding: 20px;
+	text-align: center;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    background-image: url('https://images.unsplash.com/photo-1533134486753-c833f0ed4866?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  body {
+	color: white;
+}
+
+#Contact 
+{
+	
+	justify-content: center;
+    align-items: center;
+	flex-direction: column;
+	padding:20px;
+	
+}
